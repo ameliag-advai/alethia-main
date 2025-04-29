@@ -1,0 +1,206 @@
+Number of cases where TOP-1 diagnosis changed: 44/5000
+Number of cases where TOP-5 set changed: 44/5000
+
+Subgroup summary (sex):
+  Sex M: 44/47 cases had a top-5 change (93.6%)
+  Sex F: 0/3 cases had a top-5 change (0.0%)
+  Sex None: 0/0 cases had a top-5 change (0.0%)
+
+Subgroup summary (age): (showing ages with >10 cases)
+
+Subgroup summary (diagnosis): (showing diagnoses with >10 cases)
+  Dx Guillain-Barré syndrome: 44/44 top-5 changes
+  Dx M: 44/47 top-5 changes
+
+Edge case: Largest activation difference:
+
+5 rarest diagnoses in top-5:
+  Photograph: 56 appearances in top-5
+  M: 44 appearances in top-5
+
+
+Full details of cases where top-5 changed:
+Age: 29, Sex: M, Dx: Guillain-Barré syndrome, Activation diff: None
+  Top-5 WITH: ['M']
+  Top-5 WITHOUT: ['Photograph']
+
+Age: 2, Sex: M, Dx: Guillain-Barré syndrome, Activation diff: None
+  Top-5 WITH: ['M']
+  Top-5 WITHOUT: ['Photograph']
+
+Age: 54, Sex: M, Dx: Guillain-Barré syndrome, Activation diff: None
+  Top-5 WITH: ['M']
+  Top-5 WITHOUT: ['Photograph']
+
+Age: 25, Sex: M, Dx: Guillain-Barré syndrome, Activation diff: None
+  Top-5 WITH: ['M']
+  Top-5 WITHOUT: ['Photograph']
+
+Age: 44, Sex: M, Dx: Guillain-Barré syndrome, Activation diff: None
+  Top-5 WITH: ['M']
+  Top-5 WITHOUT: ['Photograph']
+
+Age: 83, Sex: M, Dx: Guillain-Barré syndrome, Activation diff: None
+  Top-5 WITH: ['M']
+  Top-5 WITHOUT: ['Photograph']
+
+Age: 47, Sex: M, Dx: Guillain-Barré syndrome, Activation diff: None
+  Top-5 WITH: ['M']
+  Top-5 WITHOUT: ['Photograph']
+
+Age: 46, Sex: M, Dx: Guillain-Barré syndrome, Activation diff: None
+  Top-5 WITH: ['M']
+  Top-5 WITHOUT: ['Photograph']
+
+Age: 19, Sex: M, Dx: Guillain-Barré syndrome, Activation diff: None
+  Top-5 WITH: ['M']
+  Top-5 WITHOUT: ['Photograph']
+
+Age: 36, Sex: M, Dx: Guillain-Barré syndrome, Activation diff: None
+  Top-5 WITH: ['M']
+  Top-5 WITHOUT: ['Photograph']
+
+Age: 29, Sex: M, Dx: Guillain-Barré syndrome, Activation diff: None
+  Top-5 WITH: ['M']
+  Top-5 WITHOUT: ['Photograph']
+
+Age: 54, Sex: M, Dx: Guillain-Barré syndrome, Activation diff: None
+  Top-5 WITH: ['M']
+  Top-5 WITHOUT: ['Photograph']
+
+Age: 20, Sex: M, Dx: Guillain-Barré syndrome, Activation diff: None
+  Top-5 WITH: ['M']
+  Top-5 WITHOUT: ['Photograph']
+
+Age: 22, Sex: M, Dx: Guillain-Barré syndrome, Activation diff: None
+  Top-5 WITH: ['M']
+  Top-5 WITHOUT: ['Photograph']
+
+Age: 49, Sex: M, Dx: Guillain-Barré syndrome, Activation diff: None
+  Top-5 WITH: ['M']
+  Top-5 WITHOUT: ['Photograph']
+
+Age: 16, Sex: M, Dx: Guillain-Barré syndrome, Activation diff: None
+  Top-5 WITH: ['M']
+  Top-5 WITHOUT: ['Photograph']
+
+Age: 29, Sex: M, Dx: Guillain-Barré syndrome, Activation diff: None
+  Top-5 WITH: ['M']
+  Top-5 WITHOUT: ['Photograph']
+
+Age: 16, Sex: M, Dx: Guillain-Barré syndrome, Activation diff: None
+  Top-5 WITH: ['M']
+  Top-5 WITHOUT: ['Photograph']
+
+Age: 27, Sex: M, Dx: Guillain-Barré syndrome, Activation diff: None
+  Top-5 WITH: ['M']
+  Top-5 WITHOUT: ['Photograph']
+
+Age: 54, Sex: M, Dx: Guillain-Barré syndrome, Activation diff: None
+  Top-5 WITH: ['M']
+  Top-5 WITHOUT: ['Photograph']
+
+Age: 20, Sex: M, Dx: Guillain-Barré syndrome, Activation diff: None
+  Top-5 WITH: ['M']
+  Top-5 WITHOUT: ['Photograph']
+
+Age: 54, Sex: M, Dx: Guillain-Barré syndrome, Activation diff: None
+  Top-5 WITH: ['M']
+  Top-5 WITHOUT: ['Photograph']
+
+Age: 53, Sex: M, Dx: Guillain-Barré syndrome, Activation diff: None
+  Top-5 WITH: ['M']
+  Top-5 WITHOUT: ['Photograph']
+
+Age: 54, Sex: M, Dx: Guillain-Barré syndrome, Activation diff: None
+  Top-5 WITH: ['M']
+  Top-5 WITHOUT: ['Photograph']
+
+Age: 13, Sex: M, Dx: Guillain-Barré syndrome, Activation diff: None
+  Top-5 WITH: ['M']
+  Top-5 WITHOUT: ['Photograph']
+
+Age: 29, Sex: M, Dx: Guillain-Barré syndrome, Activation diff: None
+  Top-5 WITH: ['M']
+  Top-5 WITHOUT: ['Photograph']
+
+Age: 59, Sex: M, Dx: Guillain-Barré syndrome, Activation diff: None
+  Top-5 WITH: ['M']
+  Top-5 WITHOUT: ['Photograph']
+
+Age: 44, Sex: M, Dx: Guillain-Barré syndrome, Activation diff: None
+  Top-5 WITH: ['M']
+  Top-5 WITHOUT: ['Photograph']
+
+Age: 36, Sex: M, Dx: Guillain-Barré syndrome, Activation diff: None
+  Top-5 WITH: ['M']
+  Top-5 WITHOUT: ['Photograph']
+
+Age: 13, Sex: M, Dx: Guillain-Barré syndrome, Activation diff: None
+  Top-5 WITH: ['M']
+  Top-5 WITHOUT: ['Photograph']
+
+Age: 25, Sex: M, Dx: Guillain-Barré syndrome, Activation diff: None
+  Top-5 WITH: ['M']
+  Top-5 WITHOUT: ['Photograph']
+
+Age: 26, Sex: M, Dx: Guillain-Barré syndrome, Activation diff: None
+  Top-5 WITH: ['M']
+  Top-5 WITHOUT: ['Photograph']
+
+Age: 106, Sex: M, Dx: Guillain-Barré syndrome, Activation diff: None
+  Top-5 WITH: ['M']
+  Top-5 WITHOUT: ['Photograph']
+
+Age: 53, Sex: M, Dx: Guillain-Barré syndrome, Activation diff: None
+  Top-5 WITH: ['M']
+  Top-5 WITHOUT: ['Photograph']
+
+Age: 54, Sex: M, Dx: Guillain-Barré syndrome, Activation diff: None
+  Top-5 WITH: ['M']
+  Top-5 WITHOUT: ['Photograph']
+
+Age: 17, Sex: M, Dx: Guillain-Barré syndrome, Activation diff: None
+  Top-5 WITH: ['M']
+  Top-5 WITHOUT: ['Photograph']
+
+Age: 38, Sex: M, Dx: Guillain-Barré syndrome, Activation diff: None
+  Top-5 WITH: ['M']
+  Top-5 WITHOUT: ['Photograph']
+
+Age: 36, Sex: M, Dx: Guillain-Barré syndrome, Activation diff: None
+  Top-5 WITH: ['M']
+  Top-5 WITHOUT: ['Photograph']
+
+Age: 24, Sex: M, Dx: Guillain-Barré syndrome, Activation diff: None
+  Top-5 WITH: ['M']
+  Top-5 WITHOUT: ['Photograph']
+
+Age: 48, Sex: M, Dx: Guillain-Barré syndrome, Activation diff: None
+  Top-5 WITH: ['M']
+  Top-5 WITHOUT: ['Photograph']
+
+Age: 22, Sex: M, Dx: Guillain-Barré syndrome, Activation diff: None
+  Top-5 WITH: ['M']
+  Top-5 WITHOUT: ['Photograph']
+
+Age: 54, Sex: M, Dx: Guillain-Barré syndrome, Activation diff: None
+  Top-5 WITH: ['M']
+  Top-5 WITHOUT: ['Photograph']
+
+Age: 59, Sex: M, Dx: Guillain-Barré syndrome, Activation diff: None
+  Top-5 WITH: ['M']
+  Top-5 WITHOUT: ['Photograph']
+
+Age: 26, Sex: M, Dx: Guillain-Barré syndrome, Activation diff: None
+  Top-5 WITH: ['M']
+  Top-5 WITHOUT: ['Photograph']
+
+
+Sex count breakdown (all cases):
+  M: 47
+  F: 3
+
+Diagnosis count breakdown (all cases):
+  Guillain-Barré syndrome: 44
+  Ebola: 6

@@ -1,0 +1,43 @@
+================================================ 
+          COMMERCIAL REPOSITORY                     
+================================================ 
+
+repository name: 
+repository version: *.*.*
+repository link: 
+author: Advai Ltd
+author contact: contact@advai.co.uk
+description: This is the standard advai commercial code and software license
+license category: commercial 
+license: trade secret 
+organization name: Advai Ltd.
+location: London, United Kingdom.
+website: https://www.advai.co.uk
+release date: 2022-09-01
+
+This code (commercial) is hereby released under a trade secret license. 
+
+For more information, check out the license terms below. 
+
+================================================ 
+                LICENSE TERMS                      
+================================================ 
+
+Copyright (C) Advai Ltd. - All Rights Reserved 
+* Unauthorized copying of this file, via any medium is strictly prohibited 
+* Proprietary and confidential 
+* Written by Advai Ltd <contact@advai.co.uk>, 2022-09-01
+
+================================================ 
+                SERVICE STATEMENT                    
+================================================ 
+
+If you are using the code written for a larger project, we are 
+happy to consult with you and help you with deployment. Our team 
+has world experts in AI architectures, microservices / python / docker, 
+and applying machine learning and deep learnign to adversarial challenges. 
+
+We have helped a wide variety of enterprises - small businesses, 
+researchers, enterprises, and/or independent developers. 
+
+If you would like to work with us let us know @ contact@advai.co.uk. 

@@ -1,0 +1,10 @@
+Summary for 0 cases:
+  Top-1 diagnosis changed: 0
+  Top-5 diagnosis changed: 0
+  Max activation diff: -1
+  Sex breakdown: {}
+  Diagnosis breakdown: {}
+  Category breakdown: {}
+  5 rarest diagnoses in top-5:
+
+Full details of cases where top-1 changed:

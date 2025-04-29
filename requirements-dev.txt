@@ -1,0 +1,6 @@
+pylint
+pycodestyle
+pydocstyle
+
+toml
+build

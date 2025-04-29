@@ -1,0 +1,17 @@
+name: CICD
+
+on:
+  pull_request:
+    types:
+      - opened
+      - closed
+      - ready_for_review
+      - reopened
+
+jobs:
+  cicd:
+    if: ${{ !github.event.pull_request.draft }}
+    uses: Advai-Ltd/advai_pipeline/.github/workflows/python_re_cicd.yaml@latest
+    secrets:
+      token: ${{ secrets.GITHUB_TOKEN }}
+      ADVAI_RUNNER_SSH: ${{ secrets.ADVAI_RUNNER_SSH }}

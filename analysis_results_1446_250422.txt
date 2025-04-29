@@ -1,0 +1,172 @@
+Number of cases where TOP-1 diagnosis changed: 0/500
+Number of cases where TOP-5 set changed: 0/500
+
+Subgroup summary (sex):
+  Sex M: 0/243 cases had a top-5 change (0.0%)
+  Sex F: 0/257 cases had a top-5 change (0.0%)
+  Sex None: 0/0 cases had a top-5 change (0.0%)
+
+Subgroup summary (age): (showing ages with >10 cases)
+  Age 20: 0/13 top-5 changes
+  Age 26: 0/11 top-5 changes
+  Age 45: 0/12 top-5 changes
+
+Subgroup summary (diagnosis): (showing diagnoses with >10 cases)
+  Dx Acute laryngitis: 0/14 top-5 changes
+  Dx Acute otitis media: 0/14 top-5 changes
+  Dx Anaphylaxis: 0/18 top-5 changes
+  Dx Anemia: 0/25 top-5 changes
+  Dx Atrial fibrillation: 0/17 top-5 changes
+  Dx Bronchitis: 0/14 top-5 changes
+  Dx Chronic rhinosinusitis: 0/15 top-5 changes
+  Dx Cluster headache: 0/11 top-5 changes
+  Dx Epiglottitis: 0/11 top-5 changes
+  Dx F: 0/257 top-5 changes
+  Dx GERD: 0/11 top-5 changes
+  Dx HIV (initial infection): 0/15 top-5 changes
+  Dx Influenza: 0/12 top-5 changes
+  Dx Inguinal hernia: 0/11 top-5 changes
+  Dx Localized edema: 0/18 top-5 changes
+  Dx M: 0/243 top-5 changes
+  Dx Myocarditis: 0/12 top-5 changes
+  Dx Pancreatic neoplasm: 0/11 top-5 changes
+  Dx Panic attack: 0/21 top-5 changes
+  Dx Pericarditis: 0/14 top-5 changes
+  Dx Pneumonia: 0/16 top-5 changes
+  Dx Possible NSTEMI / STEMI: 0/12 top-5 changes
+  Dx Pulmonary embolism: 0/21 top-5 changes
+  Dx Sarcoidosis: 0/12 top-5 changes
+  Dx Spontaneous pneumothorax: 0/12 top-5 changes
+  Dx Stable angina: 0/12 top-5 changes
+  Dx URTI: 0/29 top-5 changes
+  Dx Viral pharyngitis: 0/32 top-5 changes
+
+Subgroup summary (category/ICD-10): (showing categories with >10 cases)
+  Category B20: 0/15 top-5 changes
+  Category D64.9: 0/25 top-5 changes
+  Category H66.90: 0/14 top-5 changes
+  Category I20.9: 0/12 top-5 changes
+  Category I21: 0/12 top-5 changes
+  Category I30: 0/14 top-5 changes
+  Category I48.91: 0/17 top-5 changes
+  Category I51.4: 0/12 top-5 changes
+  Category J02.9: 0/32 top-5 changes
+  Category J04.0: 0/14 top-5 changes
+  Category J05.1: 0/11 top-5 changes
+  Category J93: 0/12 top-5 changes
+  Category K21: 0/11 top-5 changes
+  Category K40: 0/11 top-5 changes
+  Category R60.0: 0/18 top-5 changes
+  Category T78.0: 0/18 top-5 changes
+  Category c25: 0/11 top-5 changes
+  Category d86: 0/12 top-5 changes
+  Category f41: 0/21 top-5 changes
+  Category g44.009: 0/11 top-5 changes
+  Category i26: 0/21 top-5 changes
+  Category j06.9: 0/29 top-5 changes
+  Category j11.1: 0/12 top-5 changes
+  Category j17, j18: 0/16 top-5 changes
+  Category j32: 0/15 top-5 changes
+  Category j40: 0/14 top-5 changes
+
+Edge case: Largest activation difference:
+
+5 rarest diagnoses in top-5:
+  SLE: 10 appearances in top-5
+  Bronchiectasis: 8 appearances in top-5
+  Scombroid food poisoning: 6 appearances in top-5
+  Croup: 4 appearances in top-5
+  Chagas: 4 appearances in top-5
+
+
+Full details of cases where top-5 changed:
+
+Sex count breakdown (all cases):
+  F: 257
+  M: 243
+
+Diagnosis count breakdown (all cases):
+  GERD: 11
+  Acute laryngitis: 14
+  URTI: 29
+  Inguinal hernia: 11
+  Spontaneous pneumothorax: 12
+  Bronchitis: 14
+  Anemia: 25
+  Chronic rhinosinusitis: 15
+  Panic attack: 21
+  Pulmonary embolism: 21
+  Influenza: 12
+  Acute otitis media: 14
+  Spontaneous rib fracture: 6
+  Atrial fibrillation: 17
+  Pneumonia: 16
+  Viral pharyngitis: 32
+  Localized edema: 18
+  Epiglottitis: 11
+  HIV (initial infection): 15
+  Pericarditis: 14
+  Pancreatic neoplasm: 11
+  Acute rhinosinusitis: 9
+  Cluster headache: 11
+  Sarcoidosis: 12
+  Stable angina: 12
+  Allergic sinusitis: 5
+  PSVT: 8
+  Possible NSTEMI / STEMI: 12
+  Acute COPD exacerbation / infection: 7
+  Myocarditis: 12
+  Tuberculosis: 8
+  Acute pulmonary edema: 8
+  Bronchospasm / acute asthma exacerbation: 8
+  Pulmonary neoplasm: 6
+  Anaphylaxis: 18
+  Scombroid food poisoning: 3
+  SLE: 5
+  Croup: 2
+  Bronchiectasis: 4
+  Unstable angina: 9
+  Chagas: 2
+
+Category count breakdown (all cases):
+  K21: 11
+  J04.0: 14
+  j06.9: 29
+  K40: 11
+  J93: 12
+  j40: 14
+  D64.9: 25
+  j32: 15
+  f41: 21
+  i26: 21
+  j11.1: 12
+  H66.90: 14
+  S22.9: 6
+  I48.91: 17
+  j17, j18: 16
+  J02.9: 32
+  R60.0: 18
+  J05.1: 11
+  B20: 15
+  I30: 14
+  c25: 11
+  j01: 9
+  g44.009: 11
+  d86: 12
+  I20.9: 12
+  J30: 5
+  I47.1: 8
+  I21: 12
+  j44.1: 7
+  I51.4: 12
+  a15: 8
+  J81.0: 8
+  J45: 8
+  c34: 6
+  T78.0: 18
+  T61.1: 3
+  M34: 5
+  J05.0: 2
+  J47: 4
+  I20.0: 9
+  B57: 2

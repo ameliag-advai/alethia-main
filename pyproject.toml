@@ -1,0 +1,52 @@
+# BUILD
+[build-system]
+requires = ["setuptools", "wheel"]
+
+# TOOLS - BUILD
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.setuptools.dynamic]
+version = {file = ["VERSION"]}
+dependencies = {file = ["requirements.txt"]}
+
+# TOOLS - TEST
+[tool.coverage.run]
+source = ["src"]
+command_line = "-m unittest discover -v -s ./test/ -p test_*.py"
+branch = true
+disable_warnings = ['no-data-collected']
+
+[tool.coverage.report]
+show_missing = true
+precision = 2
+fail_under = 90.00
+
+[tool.pylint]
+fail-under = 9
+
+[tool.pycodestyle]
+statistics = true
+
+[tool.pydocstyle]
+convention = "pep257"
+
+# PROJECT
+[project]
+name = "alethia"
+description = "SAE for bias detection"
+readme = "README.md"
+requires-python = ">=3.12"
+keywords = ["Advai", "Adversarial", "AI", "Artifical", "Intelligence", "SAE"]
+license = {file = "LICENSE.txt"}
+authors = [{name = "Advai Ltd.", email = "support@advai.co.uk"}]
+dynamic = ["version", "dependencies"]
+
+
+[project.urls]
+homepage = "https://www.advai.co.uk"
+# documentation = ""
+repository = "https://github.com/Advai-Ltd/"
+# changelog = ""
+
+[project.optional-dependencies]
