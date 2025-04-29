@@ -1,3 +1,12 @@
+# Alethia local analysis ignores
+.env
+EXCLUDED_FROM_PR/
+*.zip
+DDXPlus Dataset 2/release_train_patients*
+DDXPlus Dataset 2/release_validate_patients*
+DDXPlus Dataset 2/release_test_patients
+release_test_patients
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
